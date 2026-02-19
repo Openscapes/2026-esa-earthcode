@@ -17,7 +17,7 @@ We will meet as a Cohort via Zoom five times over two months for 1.5
 hours each:
 
 - **Dates:** April 15, 29, May 13, 27, June 10
-- **Times:** NA - NA GMT
+- **Times:** 14:00 - 15:30 GMT
 - **Location:** remotely, via Zoom
 
 Agendas will be accessible to Cohort participants in our [Cohort Google
