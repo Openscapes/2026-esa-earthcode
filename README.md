@@ -1,9 +1,9 @@
 
 <a align="left" href="https://github.com/openscapes/2026-esa-earthcode"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"/></a>
 
-# 2026 ESA EarthCODE
+# 2026 ESA Openscapes Champions
 
-Welcome to the 2026 ESA EarthCODE Cohort! This is a Cohort for \[TODO:
+Welcome to the 2026 ESA Openscapes Cohort! This is a Cohort for \[TODO:
 who is this cohort for?\]. To learn more about what to expect (the
 purpose, outcomes, and process of our Cohort) and to browse the open
 lesson materials, please see the [Champions Program Lesson
@@ -25,16 +25,6 @@ Drive
 Folder](https://drive.google.com/drive/folders/19t42UU3nGy506m2JG4_3V84hxJ7SK3hH);
 they are also an archive of our live google-docing. Please see
 <https://openscapes.org/series> to view blank versions of the agendas.
-
-<!---TODO create schedule table programmatically
-&#10;|Date  |Cohort Call Topics                                   |
-|:-----|:----------------------------------------------------|
-|04/15 |Openscapes mindset                                   |
-|04/29 |GitHub for publishing & project management           |
-|05/13 |Team culture and data strategies for future us       |
-|05/27 |Open communities and coding strategies for future us |
-|06/10 |Pathways share and next steps                        |
---->
 
 | Cohort Call Topics | Lesson Series Chapters | Seaside Chat Topics |
 |----|----|----|
