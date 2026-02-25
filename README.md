@@ -3,8 +3,7 @@
 
 # 2026 ESA Openscapes Champions
 
-Welcome to the 2026 ESA Openscapes Cohort! This is a Cohort for \[TODO:
-who is this cohort for?\]. To learn more about what to expect (the
+Welcome to the 2026 ESA Openscapes Cohort! This is a Cohort for European Space Agency (ESA) affiliated researchers and people supporting ESA research to explore open data science practices and strengthen collaboration and reproducibility. To learn more about what to expect (the
 purpose, outcomes, and process of our Cohort) and to browse the open
 lesson materials, please see the [Champions Program Lesson
 Series](https://openscapes.github.io/series).
@@ -29,7 +28,7 @@ they are also an archive of our live google-docing. Please see
 | Cohort Call Topics | Lesson Series Chapters | Seaside Chat Topics |
 |----|----|----|
 | 1\. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset), [better science for future us](https://openscapes.github.io/series/core-lessons/better-science) | Seaside Chat (trailhead) |
-| 2\. GitHub for publishing & project management | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | Seaside Chat: shared organizing with GitHub |
+| 2\. GitHub for publishing & project management | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | Seaside Chat (shared organizing with GitHub) |
 | 3\. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/core-lessons/data-strategies) | Seaside Chat (code of conduct) |
 | 4\. Open communities and coding strategies for future us | [open communities](https://openscapes.github.io/series/core-lessons/communities), [coding strategies](https://openscapes.github.io/series/core-lessons/coding-strategies) | Seaside Chat (pathway) |
 | 5\. Pathways share and next steps | [pathways](https://openscapes.github.io/series/core-lessons/pathways) |  |
